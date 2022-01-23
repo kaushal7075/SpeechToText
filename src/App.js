@@ -64,7 +64,7 @@ function App() {
 
   return (
     <>
-      <h1>Voice Notes</h1>
+      <h1>Voice Notes By Swatantra kumar Goswami</h1>
       <div className="container">
         <div className="box">
           <h2>Current Note</h2>
